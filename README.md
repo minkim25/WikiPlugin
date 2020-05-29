@@ -1,5 +1,5 @@
 # WikiPlugin
-A statistical heat-map plugin for Wikipedia pages
+A statistical heat-map plugin and flask application for Wikipedia pages
 
 # WikiPlugin Analysis Webpage
 Website: http://172.105.25.92/ 
